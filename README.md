@@ -14,7 +14,7 @@ The project will first lead you through the preprocessing of the csv data using 
 1. Clone the repository on your computer. For those who are not familiar with command line utilities, GitHub has developed this utility which lets do pretty much everything you need through a GUI.
    [GitHub Desktop](https://desktop.github.com/)
 2. Download the dataset (the link is included in the jupyter notebook).
-3. Open a terminal window and navigate to the project folder. Open the notebook and follow the instructions.
+3. Open a terminal window and navigate to the project folder. Open the notebook CreditCardFraudDetector.ipynb and follow the instructions.
 
 __NOTE:__ Chances are part of the code may not run due to some missing packages. Please make sure to go through the notebook and retrieve all the necessary packages. In a future release, I will include the list of packages needed (in the form of a python environment file).
 
